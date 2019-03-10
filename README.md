@@ -4,7 +4,7 @@ PDF merger built with Python, Tkinter and PyPDF2.<br>
 
 ### Screenshots
 
-<img src="/img/screen1.jpg" width="400">
+<img src="/screen1.jpg" width="400">
 
 ### Setup
 | Name    | Version |
